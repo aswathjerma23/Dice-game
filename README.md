@@ -1,4 +1,4 @@
-# Dice Game 🎲
+# Dice Game 
 
 A simple web-based dice game built using HTML, CSS, and JavaScript.
 
@@ -6,7 +6,7 @@ The game simulates rolling dice in the browser and determines the outcome based 
 
 ## Live Demo
 
-👉 https://<your-username>.github.io/<repo-name>/
+https://aswathjerma23.github.io/Dice-game/
 
 ## Tech Stack
 
